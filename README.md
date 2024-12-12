@@ -5,6 +5,11 @@
 
 <h3 align="center">A passionate cloud enthusiast and developer, always eager to explore new technologies and solve complex problems.</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat-0706&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-0706" /> </p>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaiDivakar-Navara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
