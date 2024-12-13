@@ -6,7 +6,7 @@
 <h3 align="center">A passionate cloud enthusiast and developer, always eager to explore new technologies and solve complex problems.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaiDivakar-Navara&label=Profile%20views&color=0e75b6&style=flat" alt="venkat-0706" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaiDivakar-Navara&label=Profile%20views&color=0e75b6&style=flat" alt="SaiDivakar" /> </p>
 
 
 
