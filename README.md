@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0ABAB5&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+GitHub!;I'm+Sai+Divakar!;I+💖+learning+new+things!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0ABAB5&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+GitHub!;I'm+Sai+Divakar!;I+💖+problem+solving!" />
 </h1>
 
 <h3 align="center">A passionate cloud enthusiast and developer, always eager to explore new technologies and solve complex problems.</h3>
