@@ -65,7 +65,6 @@
   <h2>💡 Connect With Me 💡</h2>
   <p>🛠️ Building Projects | 🌟 Sharing Knowledge | 🌐 Exploring the Tech World</p>
 </div>
-
 <br>
 
 <center><h3>
