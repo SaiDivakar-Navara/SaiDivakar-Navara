@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=0ABAB5&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+GitHub!;I'm+Sai+Divakar!;I+💖+learning+problem+solving!" />
 </h1>
